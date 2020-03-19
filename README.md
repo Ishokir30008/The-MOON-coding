@@ -1,1 +1,1 @@
-This is the latest version of my personal website to market my skills to the world. God bless you xoxo
+# AtlantaCoding is my website to market me.
