@@ -1,1 +1,1 @@
-# The moon coding is my latest website that would market my skills to the world. Unlike the atlanta coding which I designed earlier with two columns (but responsive), the moon coding is one column layout. 
+# AtlantaCoding is my website to market me.

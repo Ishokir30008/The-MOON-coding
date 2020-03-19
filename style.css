@@ -39,6 +39,54 @@ li a:hover {
     position: relative;
   }
 
+
+div.column {
+	 background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.0), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
+  
+    
+    width: 980px;
+    margin: auto;
+    padding: 0px;
+   
+  }
+   div.column img{
+	width: 100%;
+	height: auto;
+
+}
+
+div.col {
+	 background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.0), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
+  
+    
+    width: 980px;
+    margin: auto;
+    padding: 0px;
+   
+  }
+   div.col img{
+	width: 100%;
+	height: auto;
+
+}
+
+div.desc {
+  padding: 15px;
+  text-align: justify;
+}
+
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+
+  }
+
+
+
 footer{
  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("img2.jpg");
     height: 30%;
